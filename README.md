@@ -1,4 +1,5 @@
-# 🚗 Car Crash Detection System  
+# ![Uploading ChatGPT Image Dec 11, 2025, 06_37_48 PM.png…]()
+🚗 Car Crash Detection System  
 A machine learning and computer vision–based system that detects car crashes in real-time using deep learning models. This project aims to improve road safety by identifying collision events from video feeds or CCTV footage and automatically triggering alerts.
 
 ---
@@ -102,13 +103,3 @@ This project is licensed under the MIT License.
 
 Ashish Deshmukh
 GitHub: Ashish-Deshmukh007
-
-
----
-
-If you want, I can also generate:
-
-✅ A **project logo**  
-✅ A **demo video** script  
-✅ A **more advanced README** with badges, architecture diagram, and animated GIFs  
-Just tell me!
